@@ -1,4 +1,17 @@
 .header {
   color: red;
   background-color: grey;
+  text-align: center;
+}
+
+.sidebar {
+  color: green;
+  background-color:WHITE;
+  float: left;
+  width: 25%;
+}
+
+.photos {
+  float: right;
+  width: 75%;
 }
